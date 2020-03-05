@@ -1,2 +1,2 @@
 # Technical-Test
-Solentive Online Technical Test Project
+My solution for Solentive Online Technical Test Project
